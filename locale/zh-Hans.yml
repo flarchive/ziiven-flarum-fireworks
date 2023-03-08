@@ -1,0 +1,23 @@
+ziven-fireworks:
+  admin:
+    show-fireworks: 显示烟花
+    option-hue: 颜色
+    option-line-width-explosion: 尾焰长度 (爆炸)
+    option-line-width-trace: 尾焰长度 (追踪)
+    option-opacity: 透明度
+    option-acceleration: 加速度
+    option-frication: 摩擦力
+    option-particles: 粒子数量
+    option-trace-length: 追踪长度
+    option-trace-speed: 追踪速度
+    option-gravity: 重力
+    option-explosion: 爆炸
+    option-intensity: 密集度
+    option-flickering: 闪烁
+    option-brightness: 亮度
+    option-decay: 衰减
+    option-delay: 延迟
+    option-rockets-point: 烟花发射点
+    option-lineStyle: 尾焰样式
+    option-lineStyle-round: 圆形
+    option-lineStyle-square: 方形

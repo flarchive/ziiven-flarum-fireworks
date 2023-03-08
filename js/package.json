@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "@ziiven/flarum-daily-check-in",
+  "devDependencies": {
+    "flarum-webpack-config": "^2.0.0",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "@fireworks-js/web": "^2.10.2",
+    "js-datepicker": "^5.18.2",
+    "nouislider": "^15.7.0"
+  }
+}
