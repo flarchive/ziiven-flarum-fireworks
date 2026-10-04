@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of ziiven/flarum-fireworks.** Not for installation: use [Packagist](https://packagist.org/packages/ziiven/flarum-fireworks) or the [upstream repository](https://github.com/Ziiven/flarum-fireworks).
 
-**0** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/ziiven-flarum-fireworks/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.0`
+**2** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/ziiven-flarum-fireworks/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2023-03-08 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-flarum-fireworks/tree/archive/v0.1.0) |
+| `v0.1.1` | 2023-03-08 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-flarum-fireworks/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/ziiven-flarum-fireworks.json](https://github.com/flarchive/archive-index/blob/main/packages/ziiven-flarum-fireworks.json)
 
